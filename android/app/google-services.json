@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84034422086",
+    "project_id": "cloud-messaging-cf43d",
+    "storage_bucket": "cloud-messaging-cf43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84034422086:android:32474fd9c8b03366f71147",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84034422086-scpnham34u4jts1abt74t01ja7lpoi1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgR1teqLjf_8OGSFx4mZ-MUqlp47n_uVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84034422086-scpnham34u4jts1abt74t01ja7lpoi1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
